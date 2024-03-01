@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "placeholder-data": "json-server --watch _data/db.json --port 4000"
+    "start-api": "json-server --watch _data/db.json --port 4000"
   },
   "dependencies": {
     "@radix-ui/react-avatar": "^1.0.4",
